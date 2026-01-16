@@ -1,0 +1,13 @@
+   body { font-family: 'Noto Serif', 'Times New Roman', serif; margin: 0; padding: 30px; background-color: #E2D9C8; color: #1A1A1A; line-height: 1.8; }
+
+        .page-wrapper {max-width: 900px;margin: 30px auto; background-color: #FAF6ED; ;
+         border: 1px solid #CDBE9A; padding: 50px;}
+h2 {font-size: 30px;color: #333;}
+ol {font-size: 22px;}
+ .gui{"padding: 15px 50px; font-size: 20px; background-color: #8B0000;}
+     table {margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px; /* Đẩy bảng xuống cách mép trên một chút */
+    background-color: #FAF6ED; /* Màu giấy giống trang chủ */
+    border: 1px solid #CDBE9A;
+    padding: 30px;}
